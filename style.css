@@ -15,7 +15,7 @@ body {
 }
 
 header {
-  background-color: #f1c40f;
+  background-color: blueviolet;
   display: grid;
   place-content: center center;
 }
